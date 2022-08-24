@@ -1,0 +1,90 @@
+
+.icon_size{
+  width:70px;
+  height:70px;
+}
+.icon_size2{
+  width:34px;
+  height:34px;
+}
+.pink{
+  background-color: antiquewhite;
+  text-align: center;
+
+  /*background-color: rgb(228, 217, 201);   */
+}
+.center{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  width:100%;
+}
+.drop_color{
+  background-color:rgb(228, 217, 201);  
+  
+}
+#drop2 li{
+  list-style-type: none;
+
+}
+#drop2 div {
+  height:35px;
+  line-height: 35px;
+
+  
+  
+  
+}
+
+.hid{
+ display:none;
+
+}
+
+
+.we{
+  height: fit-content;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+
+.hid3{
+  width:0%;
+  padding:0px;
+  flex-direction:column;
+  
+  transition: all 0.2s ease-in;
+  overflow: hidden;
+}
+.out3{
+  width:55%;
+  flex-direction:column;
+  padding:7px;
+  transition: all 0.2s ease-out;
+  overflow-y: hidden;
+  
+}
+
+.hid2{
+  transition: all 0.3s ease-in;
+}
+.drop2_wrap{
+  
+  background-color:rgb(228, 217, 201); 
+  transition: all 0.2s ease-out;
+  
+ 
+}
+ion-card-content{
+  height:fit-content;
+  width:100% !important;
+
+}
+ion-content .margin_unique{
+  margin-top:-10px;
+}
+
+#total_4 tr td{
+  padding:3px;  
+}

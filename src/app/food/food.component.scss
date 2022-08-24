@@ -1,0 +1,29 @@
+.container_food{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px 10px 0 10px;
+    margin-top:80px;
+    justify-content: space-evenly;
+    
+    
+
+}
+
+
+.hi_item {
+    border:2px solid black;
+    display:flex;
+    flex-direction: column;
+    width:40%;
+    height:max-content;
+    text-align: center;
+   
+    margin-bottom: 0px;
+}
+.hi_item .info_item p {
+    font-size: 12px;
+}
+.margin_top{
+    margin-top: 20px;
+}

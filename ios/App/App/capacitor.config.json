@@ -1,0 +1,6 @@
+{
+	"appId": "com.cap.MyApp",
+	"appName": "MyAppCap",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
